@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Em+busca+de+est%C3%A1gio+em+desenvolvimento;Foco+em+Backend+e+Dados;Sempre+aprendendo+e+construindo!)](https://git.io/typing-svg)
+[![Ciência da Computação](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Em+busca+de+est%C3%A1gio+em+desenvolvimento;Foco+em+Backend+e+Dados;Sempre+aprendendo+e+construindo!)](https://git.io/typing-svg)
 
 </div>
 
@@ -84,18 +84,3 @@ Aplicação web de cadastro e login em Python. Nasceu como um login de desktop (
 
 - 💼 LinkedIn: linkedin.com/in/rhuan-coutinho/
 - 📧 E-mail: coutinhoferreirarhuan5@gmail.com
-
-<!--
-**rhuanCoutinho/RhuanCoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
