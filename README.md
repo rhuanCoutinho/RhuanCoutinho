@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-| 🎓 Estudante de **Ciências da Computação** na **FAM** (Faculdade de Americana), formação prevista para **2028**<br>💼 Em busca de uma **vaga de estágio como desenvolvedor**<br>🚀 Foco em **Backend e Dados**<br>🌐 Experiência com **front-end e back-end**<br>🐍 Projetos com **Python, SQL e aplicações Web**<br>🧠 Gosto de entender como as coisas funcionam na prática e buscar soluções eficientes | ⚡ **Áreas**<br>`Backend`<br>`Dados`<br>`Web`<br>`Banco de Dados`<br>`Autenticação` |
+| 🎓 Estudante de **Ciência da Computação** na **FAM** (Faculdade de Americana), formação prevista para **2028**<br>💼 Em busca de uma **vaga de estágio como desenvolvedor**<br>🚀 Foco em **Backend e Dados**<br>🌐 Experiência com **front-end e back-end**<br>🐍 Projetos com **Python, SQL e aplicações Web**<br>🧠 Gosto de entender como as coisas funcionam na prática e buscar soluções eficientes | ⚡ **Áreas**<br>`Backend`<br>`Dados`<br>`Web`<br>`Banco de Dados`<br>`Autenticação` |
 | --- | --- |
 
 ---
