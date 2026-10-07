@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rhuan
 
-### Estudante de Ciências da Computação • Backend • Dados • Python • Em busca de estágio
+### Estudante de Ciência da Computação • Backend • Dados • Python • Em busca de estágio
 
 <div align="center">
 
@@ -80,7 +80,3 @@ Aplicação web de cadastro e login em Python. Nasceu como um login de desktop (
 
 ---
 
-## 📫 Contato
-
-- 💼 LinkedIn: linkedin.com/in/rhuan-coutinho/
-- 📧 E-mail: coutinhoferreirarhuan5@gmail.com
