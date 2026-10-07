@@ -62,12 +62,11 @@ Aqui compartilho projetos e estudos relacionados a:
 
 ## 🔐 Projeto em destaque
 
-### [Sistema de Login com Streamlit + Supabase](https://github.com/SEU_USUARIO/Meu-Login)
+### [Sistema de Login com Streamlit + Supabase](https://github.com/rhuanCoutinho/Meu-Login)
 
 Aplicação web de cadastro e login em Python. Nasceu como um login de desktop (Tkinter + SQLite + bcrypt) e foi migrada para a nuvem, com username único, senhas criptografadas, Row Level Security e deploy no Streamlit Cloud.
 
-🔗 [Ver demo]([https://SEU-APP.streamlit.app](https://meu-app-fxqmptixtovuxehpdbes2o.streamlit.app/))
-
+APP: https://meu-app-fxqmptixtovuxehpdbes2o.streamlit.app/
 ---
 
 ## 🧪 Meu GitHub é o meu laboratório
