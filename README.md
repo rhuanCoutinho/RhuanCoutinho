@@ -51,11 +51,10 @@
 
 Aqui compartilho projetos e estudos relacionados a:
 
-- 💻 Desenvolvimento Web
 - 🔐 Autenticação e segurança de dados
 - 🗄️ Bancos de dados e SQL
 - 🐍 Python
-- 🌐 Front-end e Back-end (HTML, CSS, JavaScript e PHP)
+- 🌐 Front-end e Back-end (HTML, CSS, JavaScript, Python e PHP)
 - ☁️ Deploy de aplicações na nuvem
 
 ---
